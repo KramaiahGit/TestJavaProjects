@@ -10,7 +10,7 @@ public class FirstController {
 	
 	@RequestMapping("/")
     public String welcome() {//Welcome page, non-rest
-        return "Welcome to RestTemplate Example.";
+        return "Welcome to RestTemplate Example......";
     }
  
     @RequestMapping("/hello")
