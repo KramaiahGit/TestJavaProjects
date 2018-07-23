@@ -16,7 +16,7 @@ public class FirstController {
     @RequestMapping("/hello")
     public String message() {//REST Endpoint.
  
-        return "Hello how are you..... " ;
+        return "Hello how are you....Kumar. " ;
     }
 	
 }
